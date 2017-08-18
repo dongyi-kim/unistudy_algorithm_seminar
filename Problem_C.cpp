@@ -62,7 +62,7 @@ int main()
     
     scanf("%d", &n);
     for(int i = 0 ; i < n ; i++){
-        scafn("%d", &data[i]);
+        scanf("%d", &data[i]);
     }
 
     //배열에서 가장 빈도수가 높은 정수를 반환하는 함수가 있다고 가정하자

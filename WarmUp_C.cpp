@@ -31,7 +31,7 @@ int find_index(int arr[], int n, int k)
      
      scanf("%d %d", &n, &k);
      for(int i = 0 ; i < n ; i++){
-         scafn("%d", &data[i]);
+         scanf("%d", &data[i]);
      }
  
     //이 함수를 호출하면 배열에서 k의 위치가 반환된다고 가정하자

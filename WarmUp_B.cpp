@@ -30,7 +30,7 @@ int get_maximum(int arr[], int n)
     
     scanf("%d", &n);
     for(int i = 0 ; i < n ; i++){
-        scafn("%d", &data[i]);
+        scanf("%d", &data[i]);
     }
  
     //이 함수를 호출하면 n개의 숫자의 최대값이 반환된다고 가정하자 
